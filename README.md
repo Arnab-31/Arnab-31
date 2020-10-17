@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arnab-31](https://github.com/Arnab-31)
 
-- 💬 Ask me anythong about **Full Stack Development, Data Structires, Algorithsm, C, C++ and Sql**
+- 💬 Ask me anything about **Full Stack Development, Data Structures, Algorithms, C, C++ and Sql**
 
 - 🥅 2020 Goals: Contribute more to **Open Source** projects
 
@@ -27,8 +27,8 @@
 <!--START_SECTION:waka-->
 ``` text
 Node.js             6 hrs 37 mins   ██████████████░░░░░░░░░░░   48.76 % 
-React.js            1 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   22.69 % 
-C++                 1 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.89 % 
+React.js            3 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   22.69 % 
+C++                 2 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.89 % 
 SQL                 19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 R                   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
