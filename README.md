@@ -10,7 +10,7 @@
 
 - 💬 Ask me anything about **Full Stack Development, Data Structures, Algorithms, C, C++ and Sql**
 
-- 🥅 2020 Goals: Contribute more to **Open Source** projects
+- 🥅 2021 Goals: Contribute more to **Open Source** projects
 
 - 📫 How to reach me **arnabpoddar.ap@gmail.com**
 
@@ -36,7 +36,7 @@ R                   15 mins         ▓░░░░░░░░░░░░░�
 
 
 
-![Nishil's github stats](https://github-readme-stats.vercel.app/api?username=Arnab-31&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
+![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=Arnab-31&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
 ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-31&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
