@@ -2,15 +2,13 @@
 <h3 align="center">A tech enthusiast and an aspiring Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arnab-31" alt="Arnab Poddar" /> </p>
 
-- 🔭 I’m currently working as A Samsung Prism Developer
-
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m a full stack developer, have won multiple hackathons, and in top 16% globally in Leetcode.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arnab-31](https://github.com/Arnab-31)
 
 - 💬 Ask me anything about **Full Stack Development, Data Structures, Algorithms, C, C++ and Sql**
 
-- 🥅 2021 Goals: Contribute more to **Open Source** projects
+- 🥅 2022 Goals: Contribute more to **Open Source** projects
 
 - 📫 How to reach me **arnabpoddar.ap@gmail.com**
 
