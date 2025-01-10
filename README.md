@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Arnab Poddar</h1>
-<h3 align="center">A tech enthusiast and an aspiring Full Stack Developer</h3>
+<h3 align="center">A software engineer with a knack of design</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arnab-31" alt="Arnab Poddar" /> </p>
 
 - 🌱 I’m a full stack developer, have won multiple hackathons, and in top 16% globally in Leetcode.
